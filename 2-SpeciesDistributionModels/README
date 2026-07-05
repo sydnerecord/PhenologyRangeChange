@@ -1,0 +1,8 @@
+SDM scripts
+
+01_SDM_Random_Forest: The first step inputs the phenology & range data into a series of BIOMOD2 functions to output species-level predictions. Important outputs from this script include spatial projections (tif & csv). 
+
+02_Error_Propagation: This script uses only the projection data as inputs to calculate the mean and standard deviation of the projected SDM ouputs.  
+
+
+Please be mindful of the directories used and naming conventions, adjust accordingly. 
