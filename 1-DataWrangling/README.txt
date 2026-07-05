@@ -1,4 +1,4 @@
-Data Wrangling Scripts
+1 - Data Wrangling Scripts
 
 01_data_exploration_ridigbio.R 
 - pulls unprocessed iDigio data using the ridigbio package
